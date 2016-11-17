@@ -1,0 +1,16 @@
+
+body{
+    font-family: 'Proza Libre', sans-serif;
+    color: white;
+    background-color: #2F4F4F;
+    font-weight: 300;
+}
+
+.sub-titulo{
+	font-weight: 500;
+}
+
+.text-modal{
+	color:black;
+}
+
